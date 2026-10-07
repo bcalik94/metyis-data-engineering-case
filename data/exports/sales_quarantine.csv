@@ -1,0 +1,95 @@
+order_id,product,quantity_ordered,price_each,order_date,purchase_address,year,month,quarantine_reason,quarantined_at
+154215,AAA Batteries (4-pack),1,2.99,2019-02-15 14:55:00,"600 South St, San Francisco, CA 94016",2019,2,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+154215,AAA Batteries (4-pack),3,2.99,2019-02-15 14:55:00,"600 South St, San Francisco, CA 94016",2019,2,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+155031,Lightning Charging Cable,1,14.95,2019-02-15 06:52:00,"805 Ridge St, Austin, TX 73301",2019,2,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+155031,Lightning Charging Cable,2,14.95,2019-02-15 06:52:00,"805 Ridge St, Austin, TX 73301",2019,2,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+159804,Lightning Charging Cable,1,14.95,2019-02-20 21:09:00,"674 14th St, New York City, NY 10001",2019,2,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+159804,Lightning Charging Cable,2,14.95,2019-02-20 21:09:00,"674 14th St, New York City, NY 10001",2019,2,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+160329,AAA Batteries (4-pack),1,2.99,2019-02-28 10:12:00,"166 Hill St, Seattle, WA 98101",2019,2,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+160329,AAA Batteries (4-pack),3,2.99,2019-02-28 10:12:00,"166 Hill St, Seattle, WA 98101",2019,2,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+163578,AA Batteries (4-pack),1,3.84,2019-03-27 13:58:00,"57 Adams St, Boston, MA 02215",2019,3,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+163578,AA Batteries (4-pack),2,3.84,2019-03-27 13:58:00,"57 Adams St, Boston, MA 02215",2019,3,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+165732,AAA Batteries (4-pack),1,2.99,2019-03-25 11:05:00,"408 Park St, Boston, MA 02215",2019,3,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+165732,AAA Batteries (4-pack),2,2.99,2019-03-25 11:05:00,"408 Park St, Boston, MA 02215",2019,3,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+173803,USB-C Charging Cable,1,11.95,2019-03-24 15:29:00,"791 4th St, San Francisco, CA 94016",2019,3,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+173803,USB-C Charging Cable,2,11.95,2019-03-24 15:29:00,"791 4th St, San Francisco, CA 94016",2019,3,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+186331,AAA Batteries (4-pack),1,2.99,2019-04-09 11:35:00,"553 2nd St, Los Angeles, CA 90001",2019,4,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+186331,AAA Batteries (4-pack),5,2.99,2019-04-09 11:35:00,"553 2nd St, Los Angeles, CA 90001",2019,4,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+189711,AA Batteries (4-pack),1,3.84,2019-04-04 15:50:00,"801 Washington St, Seattle, WA 98101",2019,4,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+189711,AA Batteries (4-pack),2,3.84,2019-04-04 15:50:00,"801 Washington St, Seattle, WA 98101",2019,4,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+191449,AA Batteries (4-pack),1,3.84,2019-04-20 19:56:00,"861 Forest St, Portland, OR 97035",2019,4,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+191449,AA Batteries (4-pack),2,3.84,2019-04-20 19:56:00,"861 Forest St, Portland, OR 97035",2019,4,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+196644,USB-C Charging Cable,1,11.95,2019-05-22 12:17:00,"52 Main St, New York City, NY 10001",2019,5,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+196644,USB-C Charging Cable,4,11.95,2019-05-22 12:17:00,"52 Main St, New York City, NY 10001",2019,5,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+197076,AAA Batteries (4-pack),1,2.99,2019-05-09 12:07:00,"760 River St, Portland, OR 97035",2019,5,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+197076,AAA Batteries (4-pack),2,2.99,2019-05-09 12:07:00,"760 River St, Portland, OR 97035",2019,5,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+200836,AAA Batteries (4-pack),1,2.99,2019-05-06 13:33:00,"377 Adams St, Dallas, TX 75001",2019,5,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+200836,AAA Batteries (4-pack),3,2.99,2019-05-06 13:33:00,"377 Adams St, Dallas, TX 75001",2019,5,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+202271,Wired Headphones,1,11.99,2019-05-01 07:56:00,"150 Forest St, Dallas, TX 75001",2019,5,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+202271,Wired Headphones,2,11.99,2019-05-01 07:56:00,"150 Forest St, Dallas, TX 75001",2019,5,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+202925,Lightning Charging Cable,1,14.95,2019-05-29 21:43:00,"334 Highland St, Portland, OR 97035",2019,5,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+202925,Lightning Charging Cable,2,14.95,2019-05-29 21:43:00,"334 Highland St, Portland, OR 97035",2019,5,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+203395,AAA Batteries (4-pack),2,2.99,2019-05-02 21:05:00,"129 Dogwood St, New York City, NY 10001",2019,5,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+203395,AAA Batteries (4-pack),3,2.99,2019-05-02 21:05:00,"129 Dogwood St, New York City, NY 10001",2019,5,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+205607,AA Batteries (4-pack),1,3.84,2019-05-25 21:52:00,"660 Forest St, San Francisco, CA 94016",2019,5,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+205607,AA Batteries (4-pack),2,3.84,2019-05-25 21:52:00,"660 Forest St, San Francisco, CA 94016",2019,5,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+206404,AAA Batteries (4-pack),1,2.99,2019-05-02 14:50:00,"18 6th St, Boston, MA 02215",2019,5,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+206404,AAA Batteries (4-pack),2,2.99,2019-05-02 14:50:00,"18 6th St, Boston, MA 02215",2019,5,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+212216,AAA Batteries (4-pack),1,2.99,2019-06-04 19:53:00,"747 Walnut St, Dallas, TX 75001",2019,6,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+212216,AAA Batteries (4-pack),2,2.99,2019-06-04 19:53:00,"747 Walnut St, Dallas, TX 75001",2019,6,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+219631,USB-C Charging Cable,1,11.95,2019-06-12 17:23:00,"563 Ridge St, San Francisco, CA 94016",2019,6,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+219631,USB-C Charging Cable,2,11.95,2019-06-12 17:23:00,"563 Ridge St, San Francisco, CA 94016",2019,6,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+225481,AAA Batteries (4-pack),1,2.99,2019-07-18 10:03:00,"819 Highland St, Dallas, TX 75001",2019,7,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+225481,AAA Batteries (4-pack),3,2.99,2019-07-18 10:03:00,"819 Highland St, Dallas, TX 75001",2019,7,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+226363,USB-C Charging Cable,1,11.95,2019-07-27 10:32:00,"320 Spruce St, Dallas, TX 75001",2019,7,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+226363,USB-C Charging Cable,2,11.95,2019-07-27 10:32:00,"320 Spruce St, Dallas, TX 75001",2019,7,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+239659,AA Batteries (4-pack),1,3.84,2019-08-05 23:30:00,"383 Center St, Los Angeles, CA 90001",2019,8,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+239659,AA Batteries (4-pack),4,3.84,2019-08-05 23:30:00,"383 Center St, Los Angeles, CA 90001",2019,8,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+240080,AAA Batteries (4-pack),1,2.99,2019-08-10 19:40:00,"86 Elm St, Seattle, WA 98101",2019,8,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+240080,AAA Batteries (4-pack),2,2.99,2019-08-10 19:40:00,"86 Elm St, Seattle, WA 98101",2019,8,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+240692,AA Batteries (4-pack),1,3.84,2019-08-20 13:58:00,"351 Jackson St, Austin, TX 73301",2019,8,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+240692,AA Batteries (4-pack),2,3.84,2019-08-20 13:58:00,"351 Jackson St, Austin, TX 73301",2019,8,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+240914,AA Batteries (4-pack),1,3.84,2019-08-19 18:10:00,"914 13th St, New York City, NY 10001",2019,8,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+240914,AA Batteries (4-pack),2,3.84,2019-08-19 18:10:00,"914 13th St, New York City, NY 10001",2019,8,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+243219,AA Batteries (4-pack),1,3.84,2019-08-21 23:47:00,"6 11th St, Austin, TX 73301",2019,8,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+243219,AA Batteries (4-pack),2,3.84,2019-08-21 23:47:00,"6 11th St, Austin, TX 73301",2019,8,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+251220,Wired Headphones,1,11.99,2019-09-17 05:49:00,"153 Meadow St, Portland, ME 04101",2019,9,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+251220,Wired Headphones,2,11.99,2019-09-17 05:49:00,"153 Meadow St, Portland, ME 04101",2019,9,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+266286,AAA Batteries (4-pack),1,2.99,2019-10-30 07:26:00,"564 Maple St, New York City, NY 10001",2019,10,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+266286,AAA Batteries (4-pack),2,2.99,2019-10-30 07:26:00,"564 Maple St, New York City, NY 10001",2019,10,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+267355,AA Batteries (4-pack),1,3.84,2019-10-13 22:41:00,"860 Lincoln St, San Francisco, CA 94016",2019,10,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+267355,AA Batteries (4-pack),2,3.84,2019-10-13 22:41:00,"860 Lincoln St, San Francisco, CA 94016",2019,10,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+268012,Lightning Charging Cable,1,14.95,2019-10-13 12:03:00,"855 Highland St, Atlanta, GA 30301",2019,10,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+268012,Lightning Charging Cable,2,14.95,2019-10-13 12:03:00,"855 Highland St, Atlanta, GA 30301",2019,10,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+271880,Lightning Charging Cable,1,14.95,2019-10-01 15:26:00,"395 10th St, San Francisco, CA 94016",2019,10,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+271880,Lightning Charging Cable,2,14.95,2019-10-01 15:26:00,"395 10th St, San Francisco, CA 94016",2019,10,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+273666,AA Batteries (4-pack),1,3.84,2019-10-31 03:22:00,"533 Cedar St, Boston, MA 02215",2019,10,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+273666,AA Batteries (4-pack),2,3.84,2019-10-31 03:22:00,"533 Cedar St, Boston, MA 02215",2019,10,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+276393,AA Batteries (4-pack),1,3.84,2019-10-12 09:03:00,"259 South St, Atlanta, GA 30301",2019,10,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+276393,AA Batteries (4-pack),2,3.84,2019-10-12 09:03:00,"259 South St, Atlanta, GA 30301",2019,10,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+283238,Lightning Charging Cable,1,14.95,2019-11-19 09:37:00,"95 Hill St, Boston, MA 02215",2019,11,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+283238,Lightning Charging Cable,2,14.95,2019-11-19 09:37:00,"95 Hill St, Boston, MA 02215",2019,11,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+284704,AA Batteries (4-pack),1,3.84,2019-11-12 10:21:00,"498 Chestnut St, Los Angeles, CA 90001",2019,11,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+284704,AA Batteries (4-pack),2,3.84,2019-11-12 10:21:00,"498 Chestnut St, Los Angeles, CA 90001",2019,11,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+289947,AAA Batteries (4-pack),1,2.99,2019-11-03 09:50:00,"53 10th St, San Francisco, CA 94016",2019,11,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+289947,AAA Batteries (4-pack),4,2.99,2019-11-03 09:50:00,"53 10th St, San Francisco, CA 94016",2019,11,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+292674,AAA Batteries (4-pack),1,2.99,2019-11-26 15:37:00,"381 Church St, Portland, OR 97035",2019,11,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+292674,AAA Batteries (4-pack),2,2.99,2019-11-26 15:37:00,"381 Church St, Portland, OR 97035",2019,11,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+296668,AAA Batteries (4-pack),2,2.99,2019-12-20 16:07:00,"535 7th St, San Francisco, CA 94016",2019,12,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+296668,AAA Batteries (4-pack),4,2.99,2019-12-20 16:07:00,"535 7th St, San Francisco, CA 94016",2019,12,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+299605,AA Batteries (4-pack),1,3.84,2019-12-26 18:40:00,"556 Spruce St, New York City, NY 10001",2019,12,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+299605,AA Batteries (4-pack),3,3.84,2019-12-26 18:40:00,"556 Spruce St, New York City, NY 10001",2019,12,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+304702,AA Batteries (4-pack),1,3.84,2019-12-29 17:04:00,"45 5th St, Boston, MA 02215",2019,12,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+304702,AA Batteries (4-pack),4,3.84,2019-12-29 17:04:00,"45 5th St, Boston, MA 02215",2019,12,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+306851,AA Batteries (4-pack),1,3.84,2019-12-01 18:31:00,"704 North St, New York City, NY 10001",2019,12,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+306851,AA Batteries (4-pack),3,3.84,2019-12-01 18:31:00,"704 North St, New York City, NY 10001",2019,12,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+307698,AAA Batteries (4-pack),1,2.99,2019-12-26 12:52:00,"808 Willow St, San Francisco, CA 94016",2019,12,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+307698,AAA Batteries (4-pack),5,2.99,2019-12-26 12:52:00,"808 Willow St, San Francisco, CA 94016",2019,12,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+308807,AAA Batteries (4-pack),1,2.99,2019-12-23 10:01:00,"835 14th St, Los Angeles, CA 90001",2019,12,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+308807,AAA Batteries (4-pack),2,2.99,2019-12-23 10:01:00,"835 14th St, Los Angeles, CA 90001",2019,12,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+309706,AA Batteries (4-pack),1,3.84,2019-12-17 19:46:00,"153 Hill St, San Francisco, CA 94016",2019,12,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+309706,AA Batteries (4-pack),2,3.84,2019-12-17 19:46:00,"153 Hill St, San Francisco, CA 94016",2019,12,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+310493,AAA Batteries (4-pack),1,2.99,2019-12-08 15:14:00,"621 North St, San Francisco, CA 94016",2019,12,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+310493,AAA Batteries (4-pack),2,2.99,2019-12-08 15:14:00,"621 North St, San Francisco, CA 94016",2019,12,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+312996,AAA Batteries (4-pack),1,2.99,2019-12-05 06:12:00,"70 West St, Seattle, WA 98101",2019,12,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
+312996,AAA Batteries (4-pack),3,2.99,2019-12-05 06:12:00,"70 West St, Seattle, WA 98101",2019,12,conflicting_quantity_same_order_product,2026-10-07 17:57:46.531241
